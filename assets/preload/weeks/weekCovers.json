@@ -1,0 +1,40 @@
+{
+	"storyName": "Covers",
+	"difficulties": "Normal, Hard, Hepta",
+	"hideFreeplay": false,
+	"weekBackground": "weekHepta",
+	"weekBefore": "weekHepta",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Vandalize",
+			"cb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Kaboom",
+			"guest",
+			[
+				206,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"hepta",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekCovers"
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "Hey, hey, hey!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "guest"
+		},
+		{
+			"expression": "talk",
+			"text": "bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I saw you the other day, you're pretty good to be honest.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "guest"
+		},
+		{
+			"expression": "normal",
+			"text": "Well, I was hoping to battle Hepta but he wasn't here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "guest"
+		},
+		{
+			"expression": "talk",
+			"text": "bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Instead, I found you. Well, lets battle, shall we?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "guest"
+		},
+		{
+			"expression": "excited",
+			"text": "bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

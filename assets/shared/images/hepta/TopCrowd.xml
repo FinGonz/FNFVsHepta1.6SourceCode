@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TopCrowd.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rookie & Akira0000" x="0" y="0" width="1693" height="669" frameX="-26" frameY="0" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0001" x="0" y="0" width="1693" height="669" frameX="-26" frameY="0" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0002" x="1693" y="0" width="1710" height="659" frameX="-20" frameY="-12" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0003" x="1693" y="0" width="1710" height="659" frameX="-20" frameY="-12" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0004" x="0" y="669" width="1725" height="647" frameX="-13" frameY="-22" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0005" x="0" y="669" width="1725" height="647" frameX="-13" frameY="-22" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0006" x="1725" y="669" width="1742" height="639" frameX="-6" frameY="-31" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0007" x="1725" y="669" width="1742" height="639" frameX="-6" frameY="-31" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0008" x="0" y="1316" width="1757" height="629" frameX="0" frameY="-41" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0009" x="0" y="1316" width="1757" height="629" frameX="0" frameY="-41" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0010" x="0" y="1316" width="1757" height="629" frameX="0" frameY="-41" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0011" x="0" y="1316" width="1757" height="629" frameX="0" frameY="-41" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0012" x="0" y="1316" width="1757" height="629" frameX="0" frameY="-41" frameWidth="1757" frameHeight="671"/>
+	<SubTexture name="Rookie & Akira0013" x="0" y="1316" width="1757" height="629" frameX="0" frameY="-41" frameWidth="1757" frameHeight="671"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-43,
+				-259
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rookie Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-271
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Rookie Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-273
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rookie Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rookie Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-272
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rookie Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rookie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rookie",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		100,
+		180
+	],
+	"camera_position": [
+		120,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

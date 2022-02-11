@@ -1,0 +1,89 @@
+{
+	"position": [
+		180,
+		70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "hepta_normal_remastered",
+	"animations": [
+		{
+			"idle_offsets": [
+				-92,
+				-15
+			],
+			"loop_offsets": [
+				-92,
+				-15
+			],
+			"anim": "talk",
+			"idle_name": "BF0",
+			"loop_name": "BF LOOP"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hepta_normal_remastered",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hepta_normal_remastered_loop",
+			"idle_name": "hepta_normal_remastered"
+		},
+		{
+			"loop_name": "hepta_normal_remastered_loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "hepta_normal_remastered0",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

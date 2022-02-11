@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hey Izzat.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cb"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh hey lyrically, what’s up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "izzat"
+		},
+		{
+			"expression": "talk",
+			"text": "Nothing to be honest, I was just looking for Hepta, have you seen him?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cb"
+		},
+		{
+			"expression": "talk",
+			"text": "No, I don’t think I have.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "izzat"
+		},
+		{
+			"expression": "talk",
+			"text": "That’s weird, he usually eats at miko borgar now…",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cb"
+		},
+		{
+			"expression": "talk",
+			"text": "In the meantime, wanna rap battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "cb"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah sure, why not?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "izzat"
+		}
+	]
+}

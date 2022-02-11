@@ -1,0 +1,44 @@
+{
+	"storyName": "Not a normal Funky Friday Rap Battle",
+	"difficulties": "Normal, Hard, Hepta",
+	"hideFreeplay": false,
+	"weekBackground": "weekHepta",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hepta",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Seven Sides",
+			"hepta",
+			[
+				255,
+				165,
+				0
+			]
+		],
+		[
+			"Heptalogy",
+			"hepta",
+			[
+				255,
+				165,
+				0
+			]
+		],
+		[
+			"Heptagonistic",
+			"hepta",
+			[
+				255,
+				165,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekHepta"
+}

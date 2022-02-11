@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "aHHH",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEEEP!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "##, are you okay??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "w-wait wha- why is ## tagged?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "oh my gosh.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep ba bop skebop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "uhm..... how did you both get here??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "confused",
+			"text": "i dont know! we just got sucked through a random portal",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "jeez",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "talk",
+			"text": "bap boop bo skedoo bep bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "slight_mad",
+			"text": "bro? i don't understand you at all",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "talk",
+			"text": "bo beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "he doesnt really know how to speak english",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "normal",
+			"text": "alright alright, who are you guys though?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "slight_mad",
+			"text": "im ##, and that blue haired kid is ##!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "why is it tagged oh my gosh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "don't complain about it. i'm used to that at this point"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bop bap beeeep brep skadap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "u wanna rap battle? aight, get over here and join the stage"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep!"
+		}
+	]
+}

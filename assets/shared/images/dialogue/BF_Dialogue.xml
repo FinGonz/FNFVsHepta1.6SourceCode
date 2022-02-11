@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF0000" x="0" y="0" width="402" height="407"/>
+	<SubTexture name="BF0001" x="0" y="0" width="402" height="407"/>
+	<SubTexture name="BF CONFUSED0000" x="402" y="0" width="396" height="407"/>
+	<SubTexture name="BF CONFUSED0001" x="402" y="0" width="396" height="407"/>
+	<SubTexture name="BF EXCITED0000" x="798" y="0" width="414" height="412"/>
+	<SubTexture name="BF EXCITED0001" x="798" y="0" width="414" height="412"/>
+	<SubTexture name="BF PISSED0000" x="1212" y="0" width="381" height="407"/>
+	<SubTexture name="BF PISSED0001" x="1212" y="0" width="381" height="407"/>
+	<SubTexture name="BF SHOCK0000" x="1593" y="0" width="396" height="407"/>
+	<SubTexture name="BF SHOCK0001" x="0" y="412" width="396" height="407"/>
+</TextureAtlas>

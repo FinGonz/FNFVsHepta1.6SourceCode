@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hepta_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hepta Angy0000" x="0" y="0" width="352" height="626"/>
+	<SubTexture name="Hepta Normal0000" x="352" y="0" width="352" height="626"/>
+	<SubTexture name="Hepta Pissed0000" x="704" y="0" width="352" height="626"/>
+</TextureAtlas>

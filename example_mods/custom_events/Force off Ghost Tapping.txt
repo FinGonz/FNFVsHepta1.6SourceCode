@@ -1,0 +1,1 @@
+Value 1: on to force off ghost tapping, off to force on ghost tapping.

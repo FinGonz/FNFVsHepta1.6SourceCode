@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "666",
+			"text": "The darkness shall consume you all.",
+			"boxState": "normal",
+			"portrait": "guest",
+			"speed": 0.22
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "are you okay?????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "anybody home?"
+		},
+		{
+			"expression": "666",
+			"text": "You will never see the light of day ever again.",
+			"boxState": "normal",
+			"speed": 0.15,
+			"portrait": "guest"
+		},
+		{
+			"expression": "shocked",
+			"text": "bap boop skdoo bep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

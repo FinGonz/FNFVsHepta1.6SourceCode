@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CB Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ready",
+			"indices": [],
+			"name": "CB Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "CB Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "spill",
+			"indices": [],
+			"name": "CB Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "CB Idle"
+		},
+		{
+			"offsets": [
+				-350,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CB Right"
+		},
+		{
+			"offsets": [
+				-350,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "CB Right"
+		},
+		{
+			"offsets": [
+				-37,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "CB Left"
+		},
+		{
+			"offsets": [
+				-37,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CB Left"
+		},
+		{
+			"offsets": [
+				-350,
+				-238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "CB Down"
+		},
+		{
+			"offsets": [
+				-350,
+				-238
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CB Down"
+		},
+		{
+			"offsets": [
+				-186,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "CB Up"
+		},
+		{
+			"offsets": [
+				-186,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CB Up"
+		},
+		{
+			"offsets": [
+				-354,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "throw",
+			"indices": [],
+			"name": "CB Throw"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CB",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "cb",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		290,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

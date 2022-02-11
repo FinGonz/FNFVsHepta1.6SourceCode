@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.67,
+		"stage": "miko-borgar",
+		"player1": "bf",
+		"player2": "hepta",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"TweenSpin",
+						"104.41",
+						"9000000000000000"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_miko",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Seven-sides"
+	}
+}

@@ -1,0 +1,8460 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "guest666",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						9600,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						9900,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						10200,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						10500,
+						3,
+						225,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						10800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						11100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						10950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						11400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						11700,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						12000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						12150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						12300,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						12450,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						12600,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						12900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						13050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						12750,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						13200,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						13275,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						13350,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						13500,
+						1,
+						150,
+						"Heptanote"
+					],
+					[
+						13800,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						13950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						14100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						14175,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						14250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						14325,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						14400,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						14700,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						15000,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						15300,
+						3,
+						225,
+						"Heptanote"
+					],
+					[
+						14400,
+						5,
+						112.5,
+						"Heptanote"
+					],
+					[
+						14400,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						14400,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						14700,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						14700,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						15000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						15000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						15300,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						15300,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						15375,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						15450,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						15525,
+						3,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						15600,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						15750,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						15750,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						15900,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						15900,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						16200,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						16200,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						16200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						15900,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						15750,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						15600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						15900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						16200,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						17700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						17550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						17850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						17400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						17250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						17100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						16950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						16800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						16950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						17250,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						17400,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						17100,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						16800,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						17850,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						17850,
+						0,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						18600,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						18750,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						18225,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						18150,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						18075,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						18000,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						18300,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						18900,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						18975,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						19050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						19050,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						19050,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						18750,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						18600,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						18300,
+						3,
+						225,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						19200,
+						7,
+						300,
+						"Heptanote"
+					],
+					[
+						19200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						19350,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						19500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						19650,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						19800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						19950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						20100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						20250,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						20250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						20100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						19650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						19200,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						19200,
+						2,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						20550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						20475,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						20400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						20625,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						20700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						20850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						21000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						21150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						21300,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						21450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						20775,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						22125,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						22050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						22500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						22650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						21600,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						21675,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						21750,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						21900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						21975,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						21825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						22200,
+						3,
+						225,
+						"Heptanote"
+					],
+					[
+						22200,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						22950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						23100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						23250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						23175,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						22875,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						22800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						23025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						23325,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						23400,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						23700,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						23850,
+						2,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						24150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						24300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						24450,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						24600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						24750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						24900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						25050,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						25050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						24900,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						24450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						24000,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						24000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						24000,
+						5,
+						225,
+						"Heptanote"
+					],
+					[
+						24450,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						24450,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						24300,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						24150,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						24600,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						24750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						24750,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						24900,
+						2,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						25275,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						25350,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						25425,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						25650,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						25200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						25650,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						25500,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						25800,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						25950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						26100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						26250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						25950,
+						1,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						26400,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						26475,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						26550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						26625,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						26700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						26775,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						26850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						26925,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						27000,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						27300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						27450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						27450,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						27300,
+						2,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						27750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						27900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						28050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						27975,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						27675,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						27600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						27825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						28125,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						28200,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						28500,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						28650,
+						2,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						28800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						28950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						28800,
+						7,
+						300,
+						"Heptanote"
+					],
+					[
+						29100,
+						0,
+						450,
+						"Heptanote"
+					],
+					[
+						29700,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						30000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						30150,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						30300,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						30450,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						30600,
+						3,
+						225,
+						"Heptanote"
+					],
+					[
+						30900,
+						2,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						31275,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						31350,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						31425,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						31200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						31500,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						31650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						31800,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						32100,
+						0,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						32625,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						32400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						32475,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						32550,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						32700,
+						2,
+						525,
+						"Heptanote"
+					],
+					[
+						33300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						33450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						32625,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						33750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						33600,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						33600,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						33900,
+						0,
+						450,
+						"Heptanote"
+					],
+					[
+						34500,
+						2,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						34800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						34950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						35100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						35250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						35400,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						35700,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						36000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						36075,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						36150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						36225,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						36300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						36450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						36600,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						36900,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						37200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						37275,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						37350,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						37425,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						37500,
+						3,
+						450,
+						"Heptanote"
+					],
+					[
+						38100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						38250,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						38400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						38475,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						38550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						38625,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						38700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						38850,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						39000,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						39225,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						39450,
+						0,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						39600,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						39675,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						39750,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						39825,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						39900,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						40050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						40200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						40425,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						40650,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						40800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						40875,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						40950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						41025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						41100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						41250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						41400,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						41625,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						41850,
+						2,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						42000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						42075,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						42150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						42225,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						42300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						42450,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						42600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						42825,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						43050,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						43200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						43275,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						43350,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						43425,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						43500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						43650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						43800,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						44025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						44250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						43650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						44025,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						44250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						44250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						43500,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						43650,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						44400,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						44475,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						44550,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						44625,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						44700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						45000,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						45450,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						44850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						44850,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						44850,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						45225,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						45225,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						44850,
+						0,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						45600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						45675,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						45750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						45825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						45900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						46050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						46425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						46650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						46425,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						46650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						46200,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						46425,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						46650,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						46800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						46875,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						46950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						47025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						47100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						47250,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						47850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						47400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						47550,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						47700,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						48450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						48300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						48150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						48000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						48600,
+						3,
+						225,
+						"Heptanote"
+					],
+					[
+						48900,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						48450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						48450,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						48300,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						48300,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						48150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						48150,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						48000,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						48000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						48450,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						48300,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						48150,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						48000,
+						0,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						49200,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						49500,
+						3,
+						225,
+						"Heptanote"
+					],
+					[
+						49800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						49950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						50100,
+						0,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						50400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						51000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						51150,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						51300,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						51450,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						50775,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						50775,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						50775,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						51000,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						51150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						51300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						51450,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						51600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						51750,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						51900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						52050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						52200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						52350,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						52650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						51900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						52050,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						52500,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						52500,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						52650,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						52200,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						52350,
+						1,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						52800,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						53100,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						53400,
+						3,
+						525,
+						"Heptanote"
+					],
+					[
+						53400,
+						5,
+						225,
+						"Heptanote"
+					],
+					[
+						53700,
+						6,
+						225,
+						"Heptanote"
+					],
+					[
+						53400,
+						2,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						54600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						54750,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						54900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						54000,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						54300,
+						0,
+						225,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						55200,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						55800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						55950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						56100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						56250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						55500,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						55500,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						55500,
+						4,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						56400,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						56550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						56700,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						56850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						57000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						57150,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						57300,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						57450,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						58500,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						58650,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						58200,
+						3,
+						225,
+						"Heptanote"
+					],
+					[
+						57900,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						57600,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						58200,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						58275,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						58200,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						58350,
+						4,
+						0,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						59400,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						59550,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						59625,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						59700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						59850,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						58800,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						58950,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						59100,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						59250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						59475,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						59550,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						59625,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						59700,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						59250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						59775,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						59775,
+						2,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						60600,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						60675,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						60750,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						60825,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						60900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						60975,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						61125,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						61050,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						60000,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						60150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						60300,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						60450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						60750,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						60975,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						61125,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						61125,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						60900,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						60675,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						61125,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						61800,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						61875,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						61950,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						62100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						62025,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						62175,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						62250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						62325,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						61200,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						61500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						61650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						61650,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						61650,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						61500,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						61500,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						61800,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						61875,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						61950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						62025,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						62175,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						62325,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						62325,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						63300,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						63375,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						63450,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						63525,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						62400,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						62775,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						62700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						62850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						62925,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						63000,
+						3,
+						1125,
+						"Heptanote"
+					],
+					[
+						63000,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						63075,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						63150,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						63225,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						62925,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						62850,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						62775,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						62700,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						63150,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						63300,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						63900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						63975,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						64050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						63600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						63675,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						63750,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						63825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						64200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						64275,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						64350,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						64425,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						64500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						64575,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						64650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						64725,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						64200,
+						5,
+						1200,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						64800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						64875,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						64950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						65550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						65625,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						65700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						65025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						65100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						65175,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						65250,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						65325,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						65400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						65475,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						65775,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						65850,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						65925,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						65550,
+						4,
+						975,
+						"Heptanote"
+					],
+					[
+						65550,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						66000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66075,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66225,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						66450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						66600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66675,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						66750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						66975,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						67050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						67125,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						66825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						66600,
+						7,
+						1125,
+						"Heptanote"
+					],
+					[
+						66600,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						68100,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						68175,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						68250,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						68325,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						67800,
+						3,
+						1125,
+						"Heptanote"
+					],
+					[
+						67800,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						67875,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						67950,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						68025,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						67200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						67275,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						67350,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						67425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						67500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						67575,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						67650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						67725,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						67800,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						68175,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						68250,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						68325,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						68100,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						68175,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						68700,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						68775,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						68400,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						68475,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						68550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						68625,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						69150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						69225,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						69300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						69375,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						69450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						69525,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						69000,
+						5,
+						1200,
+						"Heptanote"
+					],
+					[
+						69075,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						68850,
+						0,
+						75,
+						"Heptanote"
+					],
+					[
+						68400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						68625,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						69450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						69525,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						69300,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						69375,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						68850,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						69150,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						69225,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						69300,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						68550,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						68700,
+						1,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						69600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						69675,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						69750,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						70350,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						70425,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						70500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						69825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						69900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						69975,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						70050,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						70125,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						70200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						70275,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						70575,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						70650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						70725,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						70350,
+						4,
+						975,
+						"Heptanote"
+					],
+					[
+						69975,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						70050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						70125,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						69825,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						69825,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						69750,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						69900,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						70575,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						70650,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						70725,
+						0,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						71100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						71250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						71400,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						71475,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						71550,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						71700,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						71775,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						71850,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						71925,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						71625,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						71400,
+						7,
+						1125,
+						"Heptanote"
+					],
+					[
+						70800,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						70875,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						70950,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						71025,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						70800,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						70950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						70875,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						71400,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						71550,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						71700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						71850,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						71400,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						71550,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						71700,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						71850,
+						1,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						72600,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						72000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						72075,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						72150,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						72225,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						72300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						72375,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						72450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						72525,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						72600,
+						3,
+						525,
+						"Heptanote"
+					],
+					[
+						72825,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						72975,
+						6,
+						450,
+						"Heptanote"
+					],
+					[
+						72225,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						72375,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						72525,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						72600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						72300,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						72450,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						73500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						73800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						73950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						74100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						74250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						74325,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						74400,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						74700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						75000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						75075,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						75150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						75225,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						75300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						75450,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						75075,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75150,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75225,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75300,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75375,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75450,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75525,
+						4,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						75600,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						75900,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						75900,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						75600,
+						5,
+						225,
+						"Insta Kill Note"
+					],
+					[
+						76200,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						76275,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						76350,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						76425,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						76500,
+						7,
+						525,
+						"Insta Kill Note"
+					],
+					[
+						76275,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						76200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						76425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						76350,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						76500,
+						3,
+						525,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						77100,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						77250,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						77250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						77100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						77400,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						77550,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						77700,
+						7,
+						525,
+						"Heptanote"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						78300,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						78600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						78750,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						78900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						79050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						78300,
+						1,
+						0,
+						"Heptanote"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionNotes": [
+					[
+						79200,
+						2,
+						225,
+						"Heptanote"
+					],
+					[
+						79500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						79800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						79875,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						79950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						80025,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						80100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						80250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						79875,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						80250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						80100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						80250,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						80100,
+						2,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						80400,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						80700,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						81000,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						81150,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						81225,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						81300,
+						3,
+						525,
+						"Heptanote"
+					],
+					[
+						81075,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						81000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						81150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						81225,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						81000,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81075,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81000,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81075,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81150,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81225,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81150,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81225,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						81075,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						81900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						82050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						82200,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						82275,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						82350,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						82425,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						82500,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						82650,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						82050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						81900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						81900,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						82050,
+						0,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						82800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						83025,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						83250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						83400,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						83550,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						83625,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						83700,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						83475,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						83850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						83625,
+						7,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						84000,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						84225,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						84450,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						84600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						84675,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						84750,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						84825,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						84900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						85050,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						85200,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						85425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						85650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						85800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						85875,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						85950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						86025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						86100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						86250,
+						3,
+						0,
+						"Heptanote"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						86400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						86625,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						86850,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						87000,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						87075,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						87150,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						87225,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						87300,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						87450,
+						5,
+						0,
+						"Heptanote"
+					],
+					[
+						87075,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						87000,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						87375,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						87525,
+						7,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						88425,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						88500,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						88275,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						87600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						87825,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						88050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						88200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						88350,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						88650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						88275,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						88650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						88500,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						88575,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						88725,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						88650,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						89400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						89475,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						89550,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						89625,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						89700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						88800,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						89025,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						89250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						89400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						89700,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						89850,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						89550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						89550,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						89400,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						89700,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						90000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90225,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						90675,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						90750,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						90825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						90900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						91050,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						91050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						91050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90900,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						90750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90675,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						90600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						90825,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						91050,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						91200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						91425,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						91650,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						91800,
+						3,
+						1125,
+						"Heptanote"
+					],
+					[
+						91800,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						91950,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						92100,
+						7,
+						525,
+						"Heptanote"
+					],
+					[
+						91875,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						92025,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						92175,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						92325,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						92700,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						93000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						93150,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						93450,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						93300,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						93000,
+						5,
+						1125,
+						"Heptanote"
+					],
+					[
+						93375,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						93450,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						93525,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						93600,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						93900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						94200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						94275,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						94350,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						94425,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						94500,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						94650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						94200,
+						4,
+						1125,
+						"Heptanote"
+					],
+					[
+						94350,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						94500,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						94725,
+						7,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						95625,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						95550,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						94800,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						95100,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						95400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						95475,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						95475,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						95400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						95700,
+						0,
+						525,
+						"Heptanote"
+					],
+					[
+						95400,
+						7,
+						1125,
+						"Heptanote"
+					],
+					[
+						94875,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						94950,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						95550,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						95550,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						95700,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						95775,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						95775,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						95850,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						96600,
+						3,
+						1125,
+						"Heptanote"
+					],
+					[
+						96600,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						96750,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						96900,
+						7,
+						525,
+						"Heptanote"
+					],
+					[
+						96450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						96300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						96225,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						96375,
+						4,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						96600,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						97500,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						97800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						97950,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						98250,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						98100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						97800,
+						5,
+						1125,
+						"Heptanote"
+					],
+					[
+						97950,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						98100,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						98250,
+						1,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						98400,
+						0,
+						225,
+						"Heptanote"
+					],
+					[
+						98700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						99000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						99075,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						99150,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						99225,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						99300,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						99450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						99000,
+						4,
+						1125,
+						"Heptanote"
+					],
+					[
+						99075,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99000,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99150,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99300,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99225,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99375,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99450,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						99525,
+						0,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						100425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						100350,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						99600,
+						1,
+						225,
+						"Heptanote"
+					],
+					[
+						99900,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						100200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						100275,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						100275,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						100200,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						100500,
+						0,
+						525,
+						"Heptanote"
+					],
+					[
+						100200,
+						7,
+						1125,
+						"Heptanote"
+					],
+					[
+						100200,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						100275,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						100350,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						100425,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						101250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						101100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						101400,
+						3,
+						1125,
+						"Heptanote"
+					],
+					[
+						101400,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						101475,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						101550,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						101625,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						101700,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						101850,
+						4,
+						0,
+						"Heptanote"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						102000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						102225,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						102450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						102600,
+						5,
+						1125,
+						"Heptanote"
+					],
+					[
+						102600,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						102675,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						102750,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						102825,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						102900,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						103050,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						102600,
+						6,
+						0,
+						"Heptanote"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						103650,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						103425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						103650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						103200,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						103200,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						103425,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						103800,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						103875,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						103950,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						104025,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						104100,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						104250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						103800,
+						4,
+						1125,
+						"Heptanote"
+					],
+					[
+						103800,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						103800,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						103800,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						103875,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						104025,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						104175,
+						7,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						104250,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						104250,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						104850,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						104625,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						104400,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						105000,
+						7,
+						1125,
+						"Heptanote"
+					],
+					[
+						105075,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						105225,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						105150,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						105000,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						105300,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						105450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						104550,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						104700,
+						6,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						104925,
+						6,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						106050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						106200,
+						3,
+						1125,
+						"Heptanote"
+					],
+					[
+						106200,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						106275,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						106350,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						106425,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						106500,
+						7,
+						0,
+						"Heptanote"
+					],
+					[
+						106650,
+						4,
+						0,
+						"Heptanote"
+					],
+					[
+						106050,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						105825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						105600,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						105825,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						106425,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						106275,
+						5,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						106650,
+						5,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						106800,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						107025,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						107250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						107400,
+						5,
+						1125,
+						"Heptanote"
+					],
+					[
+						107400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107475,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						107550,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107625,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						107700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107850,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						107400,
+						6,
+						0,
+						"Heptanote"
+					],
+					[
+						106800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107025,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107250,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107400,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						107475,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						107550,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						107850,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						107700,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						107025,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						107025,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						106800,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						106800,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						107250,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						107250,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						108450,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						108225,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						108450,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						108000,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						108000,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						108225,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						108600,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						108675,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						108750,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						108825,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						108900,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						109050,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						108600,
+						4,
+						1125,
+						"Heptanote"
+					],
+					[
+						108825,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						108750,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						108675,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						108600,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						108900,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						109050,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						109050,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						109050,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						108450,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						108225,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						108000,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						108000,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						108225,
+						3,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						108450,
+						3,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						109650,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						109425,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						109200,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						109800,
+						7,
+						1125,
+						"Heptanote"
+					],
+					[
+						109875,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						110025,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						109950,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						109800,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						110100,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						110250,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						109200,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						109425,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						109650,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						109800,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						109950,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						110025,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						110100,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						109875,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						109650,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						109575,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						109500,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						109425,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						109350,
+						1,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						109275,
+						0,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						109200,
+						1,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [
+					[
+						110400,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						110850,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						110700,
+						0,
+						0,
+						"Heptanote"
+					],
+					[
+						110850,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						110700,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						110550,
+						3,
+						0,
+						"Heptanote"
+					],
+					[
+						110550,
+						2,
+						0,
+						"Heptanote"
+					],
+					[
+						110400,
+						1,
+						0,
+						"Heptanote"
+					],
+					[
+						111000,
+						2,
+						525,
+						"Heptanote"
+					],
+					[
+						111000,
+						6,
+						525,
+						"Heptanote"
+					],
+					[
+						111075,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						111150,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						111225,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						111300,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						111375,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						111450,
+						2,
+						0,
+						"Insta Kill Note"
+					],
+					[
+						111525,
+						2,
+						0,
+						"Insta Kill Note"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 200
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 200,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "gf_miko",
+		"events": [
+			[
+				2100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				2250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				4650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				6900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				7050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				9450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				11400,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13200,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23400,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30600,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31875,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33075,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35475,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36525,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39450,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42225,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44250,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46200,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47700,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48900,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50775,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53100,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59700,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60750,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63525,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64200,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66300,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68325,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71100,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73125,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76200,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78975,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79650,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80925,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83625,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				85725,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88425,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89700,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90900,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92025,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95700,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96825,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101700,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103800,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108600,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111003.125,
+				[
+					[
+						"White Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112275,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113400,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114900,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116175,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117150,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118425,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119625,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120903.125,
+				[
+					[
+						"White Flash",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"player3": null,
+		"song": "Unknown-Suffering",
+		"needsVoices": true,
+		"stage": "miko-borgar-night-unknown",
+		"arrowSkin": "",
+		"validScore": true,
+		"speed": 4,
+		"bpm": 200
+	}
+}

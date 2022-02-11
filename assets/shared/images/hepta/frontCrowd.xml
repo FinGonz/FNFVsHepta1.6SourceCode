@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frontCrowd.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="frontCrowd0000" x="0" y="0" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+    <SubTexture name="frontCrowd0001" x="454" y="0" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+    <SubTexture name="frontCrowd0002" x="908" y="0" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+    <SubTexture name="frontCrowd0003" x="0" y="454" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+    <SubTexture name="frontCrowd0004" x="454" y="454" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+    <SubTexture name="frontCrowd0005" x="908" y="454" width="454" height="454" frameX="0" frameY="0" frameWidth="454" frameHeight="454" />
+    <SubTexture name="frontCrowd0006" x="0" y="908" width="454" height="458" frameX="0" frameY="0" frameWidth="454" frameHeight="458" />
+    <SubTexture name="frontCrowd0007" x="454" y="908" width="454" height="458" frameX="0" frameY="0" frameWidth="454" frameHeight="458" />
+    <SubTexture name="frontCrowd0008" x="908" y="908" width="454" height="469" frameX="0" frameY="0" frameWidth="454" frameHeight="469" />
+    <SubTexture name="frontCrowd0009" x="0" y="1377" width="454" height="469" frameX="0" frameY="0" frameWidth="454" frameHeight="469" />
+    <SubTexture name="frontCrowd0010" x="454" y="1377" width="454" height="472" frameX="0" frameY="0" frameWidth="454" frameHeight="472" />
+    <SubTexture name="frontCrowd0011" x="908" y="1377" width="454" height="472" frameX="0" frameY="0" frameWidth="454" frameHeight="472" />
+</TextureAtlas>

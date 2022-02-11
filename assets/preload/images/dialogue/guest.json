@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		-30
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"idle_offsets": [
+				-60,
+				-30
+			],
+			"anim": "normal",
+			"loop_offsets": [
+				-60,
+				-30
+			],
+			"idle_name": "Guest_Dialogue",
+			"loop_name": "Guest_Dialogue"
+		},
+		{
+			"loop_name": "Guest666_Dialogue0",
+			"idle_offsets": [
+				-30,
+				-30
+			],
+			"idle_name": "Guest666_Dialogue0",
+			"anim": "666",
+			"loop_offsets": [
+				-30,
+				-30
+			]
+		}
+	],
+	"image": "Guest_dialogue"
+}

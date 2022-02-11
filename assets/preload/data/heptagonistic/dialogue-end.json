@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well, GG."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "bap boop skdoo bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Well, I've got somewhere to go so see ya!"
+		}
+	]
+} 

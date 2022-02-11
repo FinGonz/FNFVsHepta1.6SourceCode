@@ -1,0 +1,9 @@
+{
+	"directory": "weekHepta",
+	"defaultZoom": 0.75,
+	"isPixelStage": false,
+
+	"boyfriend": [1050, 150],
+	"girlfriend": [400, 130],
+	"opponent": [170, 150]
+}

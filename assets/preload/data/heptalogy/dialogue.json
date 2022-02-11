@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "bop!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "dang, guess i lost",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hepta you're really good at this!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep ba!"
+		},
+		{
+			"expression": "talk",
+			"text": "yeah!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so do you want a rematch?"
+		},
+		{
+			"expression": "slight_mad",
+			"text": "wanna try bad apple?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba bop skede-beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "not good enough for you, ##?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "slight_mad",
+			"text": "let me choose a harder song then"
+		}
+	]
+}

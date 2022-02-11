@@ -1,0 +1,50 @@
+{
+	"position": [
+		150,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "Hepta_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Hepta Normal0",
+			"idle_name": "Hepta Normal0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "slight_mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Hepta Pissed",
+			"idle_name": "Hepta Pissed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Hepta Angy",
+			"idle_name": "Hepta Angy"
+		}
+	]
+}

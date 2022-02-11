@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "miko-borgar-midday",
+		"player1": "bf",
+		"player2": "hepta",
+		"player3": null,
+		"events": [
+			[
+				25118.3431952663,
+				[
+					[
+						"Hey!",
+						"Something else",
+						""
+					]
+				]
+			],
+			[
+				25473.3727810651,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				59289.9408284024,
+				[
+					[
+						"Hey!",
+						"Something else",
+						""
+					]
+				]
+			],
+			[
+				97988.1656804734,
+				[
+					[
+						"DodgeEvent2",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_miko",
+		"bpm": 169,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Heptalogy"
+	}
+}

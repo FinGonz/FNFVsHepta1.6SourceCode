@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "bap beep bo.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hey, that's rude",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "slight_mad",
+			"text": "what did he even say?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "confused",
+			"text": "ez clap lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "mad",
+			"text": "ew your toxic",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "pissed",
+			"text": "you're*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "yeah whatever, i had enough of you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "pissed",
+			"text": "you suck lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "stop ##. you're really rude.",
+			"boxState": "normal",
+			"speed": 0.0499999999999996,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "ba.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "just shut up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "hepta"
+		},
+		{
+			"expression": "talk",
+			"text": "ba.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "ugh, lets make a deal then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "if you beat me in the next song, i'll let you go. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "if i win, i will turn you into dust."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "your too bad to even beat me lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "hepta",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "you're*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "whatever. bet."
+		}
+	]
+}

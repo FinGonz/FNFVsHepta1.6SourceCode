@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Guest_dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Guest666_Dialogue0000" x="0" y="0" width="350" height="515"/>
+	<SubTexture name="Guest_Dialogue0000" x="350" y="0" width="304" height="492"/>
+</TextureAtlas>
