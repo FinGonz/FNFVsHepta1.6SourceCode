@@ -1,9 +1,3 @@
-local xx = 1100;
-local yy = 500;
-local xx2 = 1100;
-local yy2 = 500;
-local ofs = 50;
-
 function onCreate()
     --variables
 	Dodged = false;
@@ -47,9 +41,6 @@ function onUpdate()
    canDodge = false
    
    end
-   if getProperty('dad.animation.curAnim.name') == 'gun' then
-    triggerEvent('Camera Follow Pos',xx+ofs,yy)
-end
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)
