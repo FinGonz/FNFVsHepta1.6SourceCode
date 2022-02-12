@@ -2,16 +2,18 @@
 <TextureAtlas imagePath="BackBop.png">
 	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Crowd_Back0000" x="0" y="0" width="1942" height="1160" frameX="-24" frameY="0" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0001" x="0" y="0" width="1942" height="1160" frameX="-24" frameY="0" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0002" x="1942" y="0" width="1950" height="1150" frameX="-20" frameY="-9" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0003" x="1942" y="0" width="1950" height="1150" frameX="-20" frameY="-9" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0004" x="0" y="1160" width="1959" height="1138" frameX="-16" frameY="-18" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0005" x="0" y="1160" width="1959" height="1138" frameX="-16" frameY="-18" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0006" x="1959" y="1160" width="1964" height="1120" frameX="-13" frameY="-32" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0007" x="1959" y="1160" width="1964" height="1120" frameX="-13" frameY="-32" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0008" x="0" y="2298" width="1979" height="1107" frameX="-6" frameY="-42" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0009" x="0" y="2298" width="1979" height="1107" frameX="-6" frameY="-42" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0010" x="1979" y="2298" width="1991" height="1089" frameX="0" frameY="-56" frameWidth="1991" frameHeight="1160"/>
-	<SubTexture name="Crowd_Back0011" x="1979" y="2298" width="1991" height="1089" frameX="0" frameY="-56" frameWidth="1991" frameHeight="1160"/>
+	<SubTexture name="Crowd_Back0000" x="0" y="0" width="1891" height="701" frameX="-20" frameY="0" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0001" x="0" y="0" width="1891" height="701" frameX="-20" frameY="0" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0002" x="1891" y="0" width="1904" height="681" frameX="-13" frameY="-20" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0003" x="1891" y="0" width="1904" height="681" frameX="-13" frameY="-20" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0004" x="0" y="701" width="1919" height="669" frameX="-5" frameY="-32" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0005" x="0" y="701" width="1919" height="669" frameX="-5" frameY="-32" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0006" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0007" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0008" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0009" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0010" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0011" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0012" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
+	<SubTexture name="Crowd_Back0013" x="1919" y="701" width="1930" height="654" frameX="0" frameY="-47" frameWidth="1930" frameHeight="701"/>
 </TextureAtlas>

@@ -362,9 +362,18 @@ class FreeplayState extends MusicBeatState
 		curDifficulty += change;
 
 		if (curDifficulty < 0)
-			curDifficulty = CoolUtil.difficulties.length-1;
-		if (curDifficulty >= CoolUtil.difficulties.length)
+			curDifficulty = 2;
+		if (curDifficulty > 2)
 			curDifficulty = 0;
+	
+		if (songs[curSelected].songName == 'Unknown-Suffering')
+			{
+				if (curDifficulty < 2)
+					curDifficulty = 2;
+	
+				if (curDifficulty > 2)
+					curDifficulty = 2;
+			}
 
 		lastDifficultyName = CoolUtil.difficulties[curDifficulty];
 
@@ -388,6 +397,15 @@ class FreeplayState extends MusicBeatState
 			curSelected = songs.length - 1;
 		if (curSelected >= songs.length)
 			curSelected = 0;
+
+		if (songs[curSelected].songName == 'Unknown-Suffering')
+			{
+				if (curDifficulty < 2)
+					curDifficulty = 2;
+	
+				if (curDifficulty > 2)
+					curDifficulty = 2;
+			}
 			
 		var newColor:Int = songs[curSelected].color;
 		if(newColor != intendedColor) {

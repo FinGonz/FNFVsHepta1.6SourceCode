@@ -757,7 +757,7 @@ class PlayState extends MusicBeatState
 					add(mikoMidday);
 
 				{
-				mikoCrowd = new BGSprite('hepta/BackBop', -100, -9, 0.9, 0.9, ['Crowd_Back'], true);
+				mikoCrowd = new BGSprite('hepta/BackBop', -100, 209, 0.9, 0.9, ['Crowd_Back'], true);
 				mikoCrowd.updateHitbox();
 					mikoCrowd.antialiasing = true;
 					add(mikoCrowd);
@@ -770,7 +770,7 @@ class PlayState extends MusicBeatState
 					add(mikoNight);
 
 			    {
-					mikoCrowd = new BGSprite('hepta/BackBopNight', -100, -9, 0.9, 0.9, ['Crowd_Back'], true);
+					mikoCrowd = new BGSprite('hepta/BackBopNight', -100, 209, 0.9, 0.9, ['Crowd_Back'], true);
 					mikoCrowd.updateHitbox();
 						mikoCrowd.antialiasing = true;
 						add(mikoCrowd);
@@ -802,7 +802,7 @@ class PlayState extends MusicBeatState
 
 		if(curStage == 'miko-borgar-night')
 			{
-			mikoCrowdFront = new BGSprite('hepta/frontCrowdreDone1', -500, -1345, 0.9, 0.9, ['Crowd_Front'], true);
+			mikoCrowdFront = new BGSprite('hepta/frontCrowdreDone1', -350, 500, 0.9, 0.9, ['Crowd_Front'], true);
 			mikoCrowdFront.scale.set(2.9, 2.9);
 			mikoCrowdFront.setGraphicSize(Std.int(mikoCrowdFront.width * 2.11));
 				mikoCrowdFront.updateHitbox();
@@ -1005,9 +1005,7 @@ class PlayState extends MusicBeatState
 		timeTxt.borderSize = 2;
 		timeTxt.visible = showTime;
 		timeTxt.size = 20;
-		timeTxt.y += 64;
-		if(ClientPrefs.downScroll) timeTxt.y = FlxG.height - 44;
-		if(!ClientPrefs.downScroll) timeTxt.y -= 64;
+		if(ClientPrefs.downScroll) timeTxt.y = FlxG.height * 0.95;
 		
 		updateTime = showTime;
 
