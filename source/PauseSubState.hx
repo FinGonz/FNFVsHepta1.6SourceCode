@@ -40,7 +40,7 @@ class PauseSubState extends MusicBeatSubstate
 		{
 			case 'heptas-spam-challenge':
 	        	menuItems = menuFuckYou;
-			case 'unknown suffering':
+			case 'unknown-suffering':
 	        	menuItems = menuItemsClassic;
 		}
 
